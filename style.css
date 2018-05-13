@@ -22,7 +22,7 @@ font-size: 20px;
 color: #0D2C40;
 }
 
-body > p {
+body /*> p*/ {
 font-family: "Droid Serif", serif;
 line height: 26px;
 font-size: 18px;
@@ -92,3 +92,7 @@ font-size: 0;
 	color: #F15B31;
 	font-weight: 700;
 }
+/*
+#game-board{
+	background-color: green;
+}*/
